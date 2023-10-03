@@ -16,4 +16,5 @@ Dashboard
 
 Profile page
 ![ProfiePage1](https://github.com/RajasDoshi/MyConnections/assets/87440634/7dce0e72-ba65-46e5-9e5b-e92bc1f0ea87)
+
 ![ProfilePage2](https://github.com/RajasDoshi/MyConnections/assets/87440634/12cf059b-6b28-4a1d-b3d5-ca28ae40c0e3)
